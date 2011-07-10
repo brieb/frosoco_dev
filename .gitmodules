@@ -1,0 +1,12 @@
+[submodule "public/steal"]
+	path = public/steal
+	url = git@github.com:brieb/steal.git
+[submodule "public/jquery"]
+	path = public/jquery
+	url = git@github.com:brieb/jquerymx.git
+[submodule "public/documentjs"]
+	path = public/documentjs
+	url = git@github.com:brieb/documentjs.git
+[submodule "public/funcunit"]
+	path = public/funcunit
+	url = git@github.com:brieb/funcunit.git
