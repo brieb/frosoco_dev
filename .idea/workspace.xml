@@ -2,23 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03a538c8-2d4b-466d-be60-96eaddd564b3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/cookbook/views/recipe/init.tmpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/cookbook/views/recipe/show.tmpl" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/cookbook/views/recipe/init.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/cookbook/views/recipe/show.ejs" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/cookbook/views/recipe/edit.ejs" afterPath="$PROJECT_DIR$/public/cookbook/views/recipe/edit.tmpl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/cookbook/views/recipe/list.ejs" afterPath="$PROJECT_DIR$/public/cookbook/views/recipe/list.tmpl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/documentjs" afterPath="$PROJECT_DIR$/public/documentjs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/funcunit" afterPath="$PROJECT_DIR$/public/funcunit" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/jquery" afterPath="$PROJECT_DIR$/public/jquery" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/steal" afterPath="$PROJECT_DIR$/public/steal" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/cookbook/cookbook.js" afterPath="$PROJECT_DIR$/public/cookbook/cookbook.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/cookbook/docs/jQuery.EJS.json" afterPath="$PROJECT_DIR$/public/cookbook/docs/jQuery.EJS.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/cookbook/docs/jQuery.Model.json" afterPath="$PROJECT_DIR$/public/cookbook/docs/jQuery.Model.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/cookbook/docs/jQuery.View.json" afterPath="$PROJECT_DIR$/public/cookbook/docs/jQuery.View.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/cookbook/docs/steal.json" afterPath="$PROJECT_DIR$/public/cookbook/docs/steal.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/cookbook/docs/steal.static.views.json" afterPath="$PROJECT_DIR$/public/cookbook/docs/steal.static.views.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/cookbook/cookbook.css" afterPath="$PROJECT_DIR$/public/cookbook/cookbook.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/cookbook/views/recipe/init.tmpl" afterPath="$PROJECT_DIR$/public/cookbook/views/recipe/init.tmpl" />
     </list>
     <ignored path="frosoco_dev.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,19 +31,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="show.tmpl" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/cookbook/views/recipe/show.tmpl">
+      <file leaf-file-name="users.json.get" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/frosoco/fixtures/users.json.get">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="23" selection-start="158" selection-end="158" vertical-scroll-proportion="-3.9230769">
+            <state line="27" column="11" selection-start="488" selection-end="488" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cookbook.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/cookbook/cookbook.html">
+      <file leaf-file-name="people.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/frosoco/people.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="7" selection-start="499" selection-end="499" vertical-scroll-proportion="-11.115385">
+            <state line="26" column="0" selection-start="396" selection-end="396" vertical-scroll-proportion="-17.0">
               <folding />
             </state>
           </provider>
@@ -62,25 +52,70 @@
       <file leaf-file-name="recipe_controller.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/cookbook/controllers/recipe_controller.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="35" selection-start="1047" selection-end="1047" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="init.tmpl" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/cookbook/views/recipe/init.tmpl">
+      <file leaf-file-name="user_test.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/frosoco/controllers/user/user_test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="0" selection-start="362" selection-end="362" vertical-scroll-proportion="0.45603576">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="list.tmpl" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/cookbook/views/recipe/list.tmpl">
+      <file leaf-file-name="user.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/frosoco/controllers/user/user.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="49" selection-start="83" selection-end="116" vertical-scroll-proportion="-1.3076923">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/frosoco/controllers/user/user.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="24" selection-start="533" selection-end="533" vertical-scroll-proportion="-10.461538">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="funcunit.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/frosoco/controllers/user/funcunit.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user_controller.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/frosoco/controllers/user_controller.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="frosoco.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/frosoco/frosoco.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="20" selection-start="626" selection-end="626" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cookbook.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/cookbook/cookbook.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -113,11 +148,7 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/public/cookbook/test/qunit/recipe_test.js" />
-        <option value="$PROJECT_DIR$/public/cookbook/qunit.html" />
-        <option value="$PROJECT_DIR$/public/cookbook/cookbook.html" />
         <option value="$PROJECT_DIR$/public/cookbook/docs.html" />
-        <option value="$PROJECT_DIR$/public/cookbook/cookbook.css" />
         <option value="$PROJECT_DIR$/public/cookbook/funcunit.html" />
         <option value="$PROJECT_DIR$/public/cookbook/views/recipe/edit.ejs" />
         <option value="$PROJECT_DIR$/public/mxui/slider/slider.html" />
@@ -126,7 +157,13 @@
         <option value="$PROJECT_DIR$/public/cookbook/views/recipe/list.ejs" />
         <option value="$PROJECT_DIR$/public/cookbook/cookbook.js" />
         <option value="$PROJECT_DIR$/public/cookbook/controllers/recipe_controller.js" />
+        <option value="$PROJECT_DIR$/public/cookbook/cookbook.css" />
         <option value="$PROJECT_DIR$/public/cookbook/views/recipe/init.tmpl" />
+        <option value="$PROJECT_DIR$/public/cookbook/views/recipe/list.tmpl" />
+        <option value="$PROJECT_DIR$/public/frosoco/fixtures/users.json.get" />
+        <option value="$PROJECT_DIR$/public/frosoco/people.html" />
+        <option value="$PROJECT_DIR$/public/frosoco/frosoco.js" />
+        <option value="$PROJECT_DIR$/public/frosoco/controllers/user/user.html" />
       </list>
     </option>
   </component>
@@ -222,7 +259,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="jquery" />
+              <option name="myItemId" value="frosoco" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -240,11 +277,99 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="jquery" />
+              <option name="myItemId" value="frosoco" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frosoco_dev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frosoco_dev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frosoco" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fixtures" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frosoco_dev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frosoco_dev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frosoco" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frosoco_dev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frosoco_dev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frosoco" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frosoco_dev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frosoco_dev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookbook" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -312,8 +437,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="718" y="22" width="718" height="878" extended-state="0" />
-    <editor active="false" />
+    <frame x="0" y="22" width="1436" height="878" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Phing Build" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.32884902" sideWeight="0.5" order="11" side_tool="false" content_ui="combo" />
@@ -321,7 +446,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32806325" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21181557" sideWeight="0.67193675" order="0" side_tool="false" content_ui="tabs" x="988" y="81" width="177" height="759" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10764872" sideWeight="0.67193675" order="0" side_tool="false" content_ui="tabs" x="988" y="81" width="177" height="759" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -377,114 +502,114 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/cookbook/cookbook.css">
+    <entry file="file://$PROJECT_DIR$/public/fsc_1112/fsc_1112.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/cookbook/funcunit.html">
+    <entry file="file://$PROJECT_DIR$/public/fsc_1112/models/fsc_1112.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/cookbook/production.css">
+    <entry file="file://$PROJECT_DIR$/public/frosoco_dev/frosoco_dev.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/jquery/view/ejs/ejs.js">
+    <entry file="file://$PROJECT_DIR$/public/frosoco/models/user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="3" selection-start="3" selection-end="3" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/frosoco/frosoco.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/cookbook/views/recipe/edit.tmpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="5" selection-start="337" selection-end="337" vertical-scroll-proportion="0.21702127">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/cookbook/test/funcunit/recipe_controller_test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/mxui/slider/test/funcunit/slider_test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="16" selection-start="575" selection-end="575" vertical-scroll-proportion="0.51232874">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/mxui/slider/slider.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="266" selection-end="266" vertical-scroll-proportion="0.31392047">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/cookbook/views/recipe/show.tmpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="23" selection-start="158" selection-end="158" vertical-scroll-proportion="-3.9230769">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/cookbook/cookbook.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="7" selection-start="499" selection-end="499" vertical-scroll-proportion="-11.115385">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/jquery/view/tmpl/tmpl.js">
+    <entry file="file://$PROJECT_DIR$/public/frosoco/people.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="507" column="4" selection-start="19473" selection-end="19473" vertical-scroll-proportion="0.33333334">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/cookbook/production.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4212" column="4" selection-start="149643" selection-end="149643" vertical-scroll-proportion="0.15170941">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/cookbook/views/recipe/list.tmpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="49" selection-start="83" selection-end="116" vertical-scroll-proportion="-1.3076923">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/cookbook/cookbook.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="21" selection-start="145" selection-end="145" vertical-scroll-proportion="0.069863014">
+        <state line="26" column="0" selection-start="396" selection-end="396" vertical-scroll-proportion="-17.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/cookbook/controllers/recipe_controller.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="35" selection-start="1047" selection-end="1047" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/cookbook/views/recipe/init.tmpl">
+    <entry file="file://$PROJECT_DIR$/public/frosoco/controllers/user/user.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="362" selection-end="362" vertical-scroll-proportion="0.45603576">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/cookbook/cookbook.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/frosoco/frosoco.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="20" selection-start="626" selection-end="626" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/frosoco/controllers/user/user.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="24" selection-start="533" selection-end="533" vertical-scroll-proportion="-10.461538">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/frosoco/controllers/user/funcunit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/frosoco/fixtures/users.json.get">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="11" selection-start="488" selection-end="488" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/frosoco/controllers/user/user_test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/frosoco/controllers/user_controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>

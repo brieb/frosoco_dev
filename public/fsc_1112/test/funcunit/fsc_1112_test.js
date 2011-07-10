@@ -1,0 +1,9 @@
+module("fsc_1112 test", { 
+	setup: function(){
+		S.open("//fsc_1112/fsc_1112.html");
+	}
+});
+
+test("Copy Test", function(){
+	equals(S("h1").text(), "Welcome to JavaScriptMVC 3.0!","welcome text");
+});
